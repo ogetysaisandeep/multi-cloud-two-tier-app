@@ -73,7 +73,7 @@ multi-cloud-two-tier-app/
 
 Clone the project repository to your local machine:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ogetysaisandeep/multi-cloud-two-tier-app.git
 cd multi-cloud-two-tier-app
 ```
 
